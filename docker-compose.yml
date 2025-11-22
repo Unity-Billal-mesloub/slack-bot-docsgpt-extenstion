@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  slack-bot:
+    image: arc53/slack-bot-docsgpt-extenstion:latest
+    container_name: slack-bot-docsgpt-extension
+    env_file:
+      - .env
+    restart: unless-stopped
