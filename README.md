@@ -63,7 +63,7 @@ To avoid manually configuring scopes and events, use the App Manifest:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arc53/slack-bot-docsgpt-extenstion.git
+    git clone https://github.com/Unity-Billal-mesloub/slack-bot-docsgpt-extenstion.git
     cd slack-bot-docsgpt-extenstion
     ```
 
@@ -113,5 +113,3 @@ Use `#agent` syntax:
 - `@DocsBot #sales pricing?`
 - DM: `#support help me`
 
-## License
-MIT License.
